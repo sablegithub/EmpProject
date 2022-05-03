@@ -1,0 +1,15 @@
+D:\BridgeLabs Assignment\EmpProject\EmpProject\bin\Debug\net6.0\EmpProject.exe
+D:\BridgeLabs Assignment\EmpProject\EmpProject\bin\Debug\net6.0\EmpProject.deps.json
+D:\BridgeLabs Assignment\EmpProject\EmpProject\bin\Debug\net6.0\EmpProject.runtimeconfig.json
+D:\BridgeLabs Assignment\EmpProject\EmpProject\bin\Debug\net6.0\EmpProject.dll
+D:\BridgeLabs Assignment\EmpProject\EmpProject\bin\Debug\net6.0\EmpProject.pdb
+D:\BridgeLabs Assignment\EmpProject\EmpProject\obj\Debug\net6.0\EmpProject.csproj.AssemblyReference.cache
+D:\BridgeLabs Assignment\EmpProject\EmpProject\obj\Debug\net6.0\EmpProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabs Assignment\EmpProject\EmpProject\obj\Debug\net6.0\EmpProject.AssemblyInfoInputs.cache
+D:\BridgeLabs Assignment\EmpProject\EmpProject\obj\Debug\net6.0\EmpProject.AssemblyInfo.cs
+D:\BridgeLabs Assignment\EmpProject\EmpProject\obj\Debug\net6.0\EmpProject.csproj.CoreCompileInputs.cache
+D:\BridgeLabs Assignment\EmpProject\EmpProject\obj\Debug\net6.0\EmpProject.dll
+D:\BridgeLabs Assignment\EmpProject\EmpProject\obj\Debug\net6.0\refint\EmpProject.dll
+D:\BridgeLabs Assignment\EmpProject\EmpProject\obj\Debug\net6.0\EmpProject.pdb
+D:\BridgeLabs Assignment\EmpProject\EmpProject\obj\Debug\net6.0\EmpProject.genruntimeconfig.cache
+D:\BridgeLabs Assignment\EmpProject\EmpProject\obj\Debug\net6.0\ref\EmpProject.dll
