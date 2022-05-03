@@ -1,21 +1,20 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using EmpProject;
+ 
 
-class Emp
- {
-    public static void Main(String[] args)
+    class Emp
     {
-        int Full_Time = 1;
-        Random r = new Random();
-        int empcheck = r.Next(0 , 2);
-        if (empcheck == Full_Time)
+        public static void Main(String[] args)
         {
-            Console.WriteLine("Emp is presnt");
+
+            EmppresentorNot d = new EmppresentorNot();
+            d.emppresentornot();
+            EmpDailyWage   e = new EmpDailyWage();
+            e.CalcEmpDailyWage();
+
+
 
         }
-        else
-        {
-            Console.WriteLine("Emp is absent");
-        }
-        
+
     }
-  }
+
