@@ -9,12 +9,33 @@ namespace EmpProject
 
     internal class EmpDailyWage
     {
+        int Full_Time = 1;
         int WAGE_PER_HOUR = 20;
         int FULL_DAY_HOUR = 8;
         int PART_TIME_HOUR = 4;
         bool IsPresent;
         bool IsFullTime;
-        
+
+        Random r =new Random();
+
+        public void emppresentornot()
+        {
+            int num = r.Next(0, 2);
+
+            if (num == 1)
+            {
+                IsPresent = true;
+                Console.WriteLine("Employee is present");
+            }
+            else
+            {
+                IsPresent = false;
+                Console.WriteLine("Employee is absent");
+            }
+        }
+
+
+
 
         public void CalcEmpDailyWage()
         {

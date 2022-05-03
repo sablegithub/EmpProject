@@ -11,6 +11,8 @@ using EmpProject;
             d.emppresentornot();
             EmpDailyWage   e = new EmpDailyWage();
             e.CalcEmpDailyWage();
+            EmpFullTimeorPartTime t = new EmpFullTimeorPartTime();
+            t.Full_PART_TIME();
 
 
 
